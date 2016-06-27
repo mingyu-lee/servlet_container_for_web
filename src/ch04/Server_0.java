@@ -6,6 +6,9 @@ import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+/*
+ * 포트를 열어 웹 브라우저의 요청을 표준 출력에 남기는 예제
+ */
 public class Server_0 {
 
 	private ServerSocket serverSocket;
